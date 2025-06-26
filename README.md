@@ -17,7 +17,7 @@ This project demonstrates how SQL and visualization tools can be combined to sup
 - Visualize trends using Power BI for stakeholders
 
 
-###🧱 Database Schema
+### 🧱 Database Schema
 This project uses a single table bookings that captures all ride-related data, including status, customer/driver behavior, and financials. Below is the schema definition used in PostgreSQL:
 
 ```sql
