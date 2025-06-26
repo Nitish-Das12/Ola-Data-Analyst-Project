@@ -179,9 +179,33 @@ SELECT * FROM  avg_customer_rat_per_vehicle_type;
  SELECT * FROM incomplete_rides;
 ```
 
+### 🧾 Key Takeaways:
 
+📊 62% of total bookings were successfully completed, showcasing a healthy operational rate.
 
+🚫 Cancellations were maintained within optimal limits:
 
+<7% by customers
+
+<18% by drivers
+
+🚗 Prime Sedan and Prime Plus had the highest average ratings, making them preferred vehicle types.
+
+📈 Higher ride volumes and booking values were observed on weekends and match days.
+
+💬 Cancellation reasons, customer and driver ratings, and booking values offer deep insights into user behavior and operational efficiency.
+
+### 🎯 Business Value:
+
+By integrating SQL for structured analysis and Power BI for visualization, stakeholders can:
+
+Optimize vehicle allocation and driver performance
+
+Reduce cancellation rates through behavior analysis
+
+Improve customer satisfaction using feedback and rating data
+
+Make data-backed marketing and operational decisions
 
 
 
