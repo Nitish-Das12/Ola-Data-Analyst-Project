@@ -47,7 +47,12 @@ CREATE TABLE bookings (
               
 select  * from bookings;
 ```
+## 🧰 Tools Used
 
+- **SQL (MySQL/PostgreSQL)**: Data aggregation and KPIs
+- **Power BI**: Data visualization
+- **Excel/CSV**: Raw data
+- **Canva/PPT**: Reporting visuals
 
 
 
